@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\hamza\bakwas\project1\project1\source.cpp(143): warning C4326: return type of 'main' should be 'int' instead of 'void'
+python311.lib(python311.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
